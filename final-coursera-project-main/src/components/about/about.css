@@ -1,0 +1,13 @@
+.about-container {
+    display: flex; /* Use flexbox */
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center children vertically */
+    background-color: #495e57;
+    height: 1000px;
+    color: aliceblue;
+    text-align: center; /* Optional: Center align text within the children */
+}
+.img-team-photo {
+    width: 400px;
+    height: 270px;
+}
